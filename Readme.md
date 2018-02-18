@@ -43,5 +43,6 @@ Ideas for improvement:
 * In general, the script requires clean-up and develop/execute TODO messages. I started to develop this script usually 
 few hours before the deadline, so there was not much time for clean-up and ordering.
 * Test and check if all arguments are returning right
+* Good to have some tests, right?
  
 
